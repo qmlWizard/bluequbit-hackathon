@@ -1,0 +1,9 @@
+qiskit
+qiskit-machine-learning
+qiskit-terra
+qiskit-aer
+torch
+torchvision
+torchaudio
+matplotlib
+bluequbit
